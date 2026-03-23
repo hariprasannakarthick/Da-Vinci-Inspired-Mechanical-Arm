@@ -71,6 +71,11 @@ This mimics early mechanical automation concepts designed by Leonardo da Vinci.
 * Convert into programmable robotic arm
 
 ---
+## Diagram
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f7c5bc31-ad18-462b-9dc0-75185f2c3b66" />
+
+---
 
 ## Code (Arduino Control)
 
